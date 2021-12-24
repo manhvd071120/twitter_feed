@@ -1,0 +1,14 @@
+[
+    {
+      "command": "open",
+      "target": "https://twitter.com",
+      "value": ""
+    },
+    {
+      "command": "twitter_feed",
+      "target": "",
+      "value": ""
+    }
+    
+  ]
+  

@@ -1,0 +1,13 @@
+{
+    "chromePath": "F:/Pycharm/folder brave",
+    "profilePath": "F:/Pycharm/TwitterFeed/profile",
+    "webRtcPath": "F:/Pycharm/AutoSeleniumIDE/Extensions",
+    "scriptPath": "F:/Pycharm/TwitterFeed/Scripts.json",
+    "proxyPath": "F:/Pycharm/TwitterFeed/DataLunar -1.xlsx",
+    "proxySheet": "Sheet1",
+    "maxThread": 1,
+    "timeDelay": 1,
+    "keyPath": "C:/Users/vuman/OneDrive/Máy tính/SetupTimeOntie/configKeywords.json",
+    "file4G": "F:/Pycharm/TwitterFeed/file4G1.txt",
+    "modeNetwork": "4G"
+}
